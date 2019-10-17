@@ -1,0 +1,15 @@
+#theAd,
+.ad_NW,
+.col-b,
+[id*="ads_"],
+[class*="ads_"] { display: none !important; }
+
+/*
+#main,
+.nav-bar,
+#shellcontent { margin-top: -100px; }
+#accordiontitlelist_top { margin-top: -1px; }
+#shellnavigation { margin-top: -148px; }
+*/
+
+.panescroll #shellcontent { right: 0!important; }

@@ -1,0 +1,12 @@
+{
+  "id": "yahoomail",
+  "name": "YahooMail",
+  "version": "1.0.0",
+  "description": "YahooMail",
+  "main": "index.js",
+  "author": "sumizome0213 <sakagami_syotaro@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://mail.yahoo.co.jp"
+  }
+}
